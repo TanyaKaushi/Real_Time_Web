@@ -1,0 +1,36 @@
+img{
+  width: 50px;
+  height: 50px;
+  border-radius: 50px;
+  background-color: white;
+}
+
+button{
+  background-color: transparent;
+  text-align: center;
+  font-size: 15px;
+  font-weight: 500;
+  border: none;
+  margin-left: 10px;
+}
+
+.chat__sidebar{
+  width: 1400px !important;
+  height: 700px;
+  background-color: rgb(249, 246, 246);
+  border: 2px solid rgb(240, 239, 239);
+  margin: auto;
+  border-radius: 20px;
+}
+
+h2{
+  margin-left: 30px;
+}
+
+.chat__users button {
+  color: rgb(20, 209, 20);
+}
+
+.username{
+  color: rgb(14, 29, 126);
+}
